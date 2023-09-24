@@ -1,0 +1,6 @@
+verb=input("verb: ")
+adjective=input("adjective: ")
+noun1=input("noun: ")
+noun2=input("noun: ")
+noun3=input("noun: ")
+print(f'A Shinigami {verb} my {adjective} {noun1} out of the {noun2} as if he were a vegeterian fishing a {noun3} out of his salad.')
